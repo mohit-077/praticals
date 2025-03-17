@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-// Recursive Binary Search
+// Recursive Binary Search 
 int binarySearchRecursive(int arr[], int left, int right, int key) {
     if (left > right) {
         return -1; // Element not found
