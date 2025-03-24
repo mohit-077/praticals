@@ -38,9 +38,7 @@ Practical 8
 
 ![Screenshot 2025-03-18 001241](https://github.com/user-attachments/assets/8e2cab29-33c4-4ee7-b7f8-23b76c5800b2)
 
- Practical 11
-
- ![Screenshot 2025-03-18 001309](https://github.com/user-attachments/assets/be09fad9-f618-4bf2-bfea-a80cd407655b)
+ 
 
  Practical 12
 
